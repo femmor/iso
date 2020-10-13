@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "101463283740",
+    "firebase_url": "https://iso-messaging.firebaseio.com",
+    "project_id": "iso-messaging",
+    "storage_bucket": "iso-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101463283740:android:c225e25c09e155cb9e67d9",
+        "android_client_info": {
+          "package_name": "com.oaastudy.iso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101463283740-p2iqrjbvr09pvcp8mdl628mnjj253gs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc6wszBPXZis6RHG9gW9fm3LDQ4htY3qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101463283740-p2iqrjbvr09pvcp8mdl628mnjj253gs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
