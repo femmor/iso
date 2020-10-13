@@ -2,7 +2,7 @@
     package="com.oaastudy.iso">
    <application
         android:name=".Application"
-        android:label="iso"
+        android:label="ISOpportunities"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
